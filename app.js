@@ -10,9 +10,9 @@ const reviews = [
   {
     id: 2,
     name: 'Antonieta Barbosa',
-    job: 'Serviços Gerais',
+    job: 'Cuidador de Idosos',
     img: './antonieta.jpg',
-    text: 'Antonieta é uma pessoa que nunca vou desistir dos meus sonhos, atualmente estou fazendo curso para tirar carteiria de motorista e também em busca do meu passaporte para viajar pelo mundo, sou mãe solteira e sou guerreira.',
+    text: 'Antonieta é uma pessoa que nunca vau desistir dos seus sonhos, atualmente está fazendo um curso para tirar carteiria de motorista e também em busca do seu passaporte para viajar pelo mundo, é mãe solteira e é guerreira.',
   },
   {
     id: 3,
