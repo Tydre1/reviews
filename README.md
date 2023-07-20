@@ -34,7 +34,6 @@ Next time I'll do the challenge solo!
 </details>
 
 # Reviews ✨
-É um Projeto que  fala coisa sobre a pessoa.
 
 Projeto que peguei como base um vídeo do youtube
 como estou praticando meu HTML, CSS E JS, esse 
